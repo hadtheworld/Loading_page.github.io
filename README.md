@@ -14,6 +14,7 @@ This is a loading page animation created as an introduction screen on of a web s
   
   
 ** Detailed Description: only read if you want to know indepth about the web page**
+
 Step-by-step documentation of the code:
 
   - The first line is a declaration of the document type and version of HTML being used.

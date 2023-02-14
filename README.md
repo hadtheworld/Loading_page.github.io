@@ -13,7 +13,7 @@ This is a loading page animation created as an introduction screen on of a web s
   - This well structured format in HTML and specific styling in CSS will prevent the code from breaking in changing screen sizes, as the style and animation is solid with minimum codes.
   
   
-** Detailed Description: only read if you want to know indepth about the web page**
+**Detailed Description: only read if you want to know indepth about the web page**
 
 Step-by-step documentation of the code:
 
